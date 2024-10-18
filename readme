@@ -1,0 +1,63 @@
+
+
+**Projeto de Visualização de Dados com Plotly**
+=============================================
+
+**Resumo**
+----------
+
+Este projeto utiliza a biblioteca Plotly para criar visualizações interativas de dados. O objetivo é fornecer uma ferramenta fácil de usar para explorar e entender conjuntos de dados.
+
+**Instalação**
+-------------
+
+Para instalar o projeto, siga os passos abaixo:
+
+### Passos de Instalação
+
+1. Clone o repositório Git do projeto.
+2. Instale as dependências necessárias, incluindo a biblioteca Plotly, executando o comando `pip install -r requirements.txt`.
+3. Verifique se o Python e o pip estão instalados em sua máquina.
+
+**Uso**
+-----
+
+Para usar o projeto, siga os passos abaixo:
+
+### Passos de Uso
+
+1. Abra o arquivo `app.py` em um editor de código.
+2. Importe a biblioteca Plotly e carregue o conjunto de dados desejado.
+3. Use as funções da biblioteca Plotly para criar visualizações interativas dos dados.
+4. Execute o arquivo `app.py` para visualizar as gráficos.
+
+**Exemplos**
+------------
+
+### Gráficos
+
+* **Gráfico de Linha**: `plotly.graph_objs.Scatter(x=[1, 2, 3], y=[2, 4, 6])`
+* **Gráfico de Barras**: `plotly.graph_objs.Bar(x=[1, 2, 3], y=[2, 4, 6])`
+* **Gráfico de Pizza**: `plotly.graph_objs.Pie(labels=['A', 'B', 'C'], values=[10, 20, 30])`
+
+**Dependências**
+----------------
+
+* **Python 3.x**
+* **Plotly 4.x**
+* **Pip 20.x**
+
+**Licença**
+------------
+
+Este projeto é licenciado sob a licença MIT. Você é livre para usar, modificar e distribuir o código-fonte.
+
+**Contribuição**
+----------------
+
+Contribuições são bem-vindas! Se você tiver alguma ideia ou sugestão, abra uma issue ou envie um pull request.
+
+**Contato**
+------------
+
+Se tiver alguma dúvida ou precisar de ajuda, entre em contato com [seu nome] em [seu e-mail].
